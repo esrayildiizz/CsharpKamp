@@ -72,29 +72,29 @@ namespace IfElseOrnek1
 
             //Proje4 
 
-            int sınav1, sınav2, ort;
+            //int sınav1, sınav2, ort;
 
-            Console.WriteLine("1.Sınav Notunuzu Giriniz");
-            sınav1= Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("1.Sınav Notunuzu Giriniz");
+            //sınav1= Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("2.Sınav Notunuzu Giriniz");
-            sınav2= Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("2.Sınav Notunuzu Giriniz");
+            //sınav2= Convert.ToInt32(Console.ReadLine());
 
             
-            ort = (sınav1 + sınav2) / 2;
-            Console.WriteLine("Ortalama: " + ort);
+            //ort = (sınav1 + sınav2) / 2;
+            //Console.WriteLine("Ortalama: " + ort);
 
-            if (ort>50)
-            {
-                Console.WriteLine("Öğrenci Geçti :)");
-            }
+            //if (ort>50)
+            //{
+            //    Console.WriteLine("Öğrenci Geçti :)");
+            //}
 
-            else
-            {
-                Console.WriteLine("Öğrenci Kaldı :(");
-            }
+            //else
+            //{
+            //    Console.WriteLine("Öğrenci Kaldı :(");
+            //}
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
 
 
