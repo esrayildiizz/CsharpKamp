@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace String_Ornekleri
+namespace StringOrnekleri
 {
     internal class Program
     {
@@ -14,7 +14,7 @@ namespace String_Ornekleri
             Console.WriteLine("Lütfen İsminizi Giriniz: ");
             ad = Console.ReadLine();
             Console.WriteLine("Merhaba: {0}", ad);
-            Console.Read();
+            Console.Read(); 
         }
     }
 }

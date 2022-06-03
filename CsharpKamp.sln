@@ -5,9 +5,9 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{6BD16A8F-FE21-4962-A4A5-E1104DE6EE72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merhaba Dunya", "Merhaba Dunya\Merhaba Dunya.csproj", "{45CC8B7C-E0D4-4EF2-830E-D762CE08C4C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerhabaDunya", "Merhaba Dunya\MerhabaDunya.csproj", "{45CC8B7C-E0D4-4EF2-830E-D762CE08C4C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Ornekleri", "String Ornekleri\String Ornekleri.csproj", "{31DB799F-F5F1-43A2-86B6-5635B4C93993}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringOrnekleri", "String Ornekleri\StringOrnekleri.csproj", "{31DB799F-F5F1-43A2-86B6-5635B4C93993}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
