@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerhabaDunya", "Merhaba Dun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringOrnekleri", "String Ornekleri\StringOrnekleri.csproj", "{31DB799F-F5F1-43A2-86B6-5635B4C93993}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DortIslem", "DortIslem\DortIslem.csproj", "{63C58DEE-A142-4BF1-B22E-445597A4B7A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{31DB799F-F5F1-43A2-86B6-5635B4C93993}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31DB799F-F5F1-43A2-86B6-5635B4C93993}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31DB799F-F5F1-43A2-86B6-5635B4C93993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C58DEE-A142-4BF1-B22E-445597A4B7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C58DEE-A142-4BF1-B22E-445597A4B7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C58DEE-A142-4BF1-B22E-445597A4B7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C58DEE-A142-4BF1-B22E-445597A4B7A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
