@@ -11,7 +11,7 @@ namespace Merhaba_Dunya
         static void Main(string[] args)
         {
             Console.WriteLine("Merhaba C# Console Dersleri");
-            Console.Read();
+            Console.ReadLine();
         }
     }
 }
