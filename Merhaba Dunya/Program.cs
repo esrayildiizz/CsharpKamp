@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Merhaba_Dunya
+namespace MerhabaDunya
 {
     internal class Program
     {
