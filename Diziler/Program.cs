@@ -38,6 +38,24 @@ namespace Diziler
 
             string[] sehirler = new string[3];
 
+            for(int i = 0; i <3 ; i++)
+            {
+                Console.WriteLine("Şehir: ");
+                sehirler[i] = Console.ReadLine();
+            }
+
+
+            Console.WriteLine("****Şehirler****");
+
+            for(int i = 0; i < 3; i++)
+            {
+                Console.WriteLine(sehirler[i]);
+            }
+
+
+            Console.ReadLine();
+                
+
 
 
 
