@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleDegiskenler", "Double
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseOrnek1", "IfElseOrnekleri\IfElseOrnek1.csproj", "{2CA69B6E-627D-442C-A72C-3AFD9E4666E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCaseYapisi", "SwitchCaseYapisi\SwitchCaseYapisi.csproj", "{91B3523C-D497-45E0-80F7-02D7A738D417}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2CA69B6E-627D-442C-A72C-3AFD9E4666E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CA69B6E-627D-442C-A72C-3AFD9E4666E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CA69B6E-627D-442C-A72C-3AFD9E4666E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B3523C-D497-45E0-80F7-02D7A738D417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B3523C-D497-45E0-80F7-02D7A738D417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B3523C-D497-45E0-80F7-02D7A738D417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B3523C-D497-45E0-80F7-02D7A738D417}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
