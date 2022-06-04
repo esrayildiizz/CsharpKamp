@@ -80,13 +80,58 @@ namespace Diziler
             //    {
             //        enbuyuk = sayilar[i];
             //    }
-               
+
             //}
             //Console.WriteLine("**** En Büyük Sayı****");
 
             //Console.WriteLine(enbuyuk);
 
             //Console.ReadLine();
+
+
+
+
+
+            //Proje5
+
+            //string[] isim = new string[3];
+            //int[] s1= new int[3];
+            //int[] s2= new int[3]; 
+            //int[] ort= new int[3];
+
+
+            //for(int i=0; i<3; i++)
+            //{
+            //    Console.Clear();
+
+            //    Console.WriteLine(i+1 + " .Öğrencinin Adı: ");
+            //    isim[i] = Console.ReadLine();
+
+            //    Console.WriteLine(i+1 + " .ÖğrencininSınavNotu1: ");
+            //    s1[i] = Convert.ToInt32(Console.ReadLine());
+
+
+            //    Console.WriteLine(i + 1 + " .ÖğrencininSınavNotu2: ");
+            //    s2[i] = Convert.ToInt32(Console.ReadLine());
+
+
+            //    ort[i] = (s1[i] + s2[i]) / 2;
+
+            //}
+
+            //Console.Write(" Öğrenci    SınavNotu1    SınavNotu2    Ortalama ");
+            //Console.WriteLine();
+
+            //for(int i=0; i<3; i++)
+            //{
+            //    Console.WriteLine("     " + isim[i]+ "          " + s1[i] +"            " + s2[i]+"            " + ort[i] );
+
+            //}
+
+
+            //Console.ReadLine();
+
+
 
 
 
