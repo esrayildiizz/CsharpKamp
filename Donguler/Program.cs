@@ -120,6 +120,57 @@ namespace Donguler
 
 
 
+            //Proje 8  (While Dongusu   [-iken anlamı taşır.])
+
+            //int i;
+            //i = 1;
+            //while (i <= 10)
+            //{
+            //    Console.WriteLine("Merhaba Ankara");   
+            //    i++;    
+            //}
+            //Console.ReadLine();
+
+
+
+
+
+
+            //Proje8
+
+            //int i = 1;
+
+            //while (i <= 50)
+            //{
+            //    Console.WriteLine(i);   
+            //    i++;    
+            //}
+            //Console.ReadLine();
+
+
+
+
+
+
+            //Proje9
+
+            //int sayi;
+            //Console.WriteLine("Bir Sayı Girin:");
+            //sayi = Convert.ToInt32(Console.ReadLine());
+
+            //while (sayi % 2 == 0)
+            //{
+            //    Console.WriteLine("Bir Sayı Girin:");
+            //    sayi = Convert.ToInt32(Console.ReadLine());
+            //}
+            //Console.WriteLine("Tek Sayı Girdiniz");
+            //Console.ReadLine();
+
+
+
+
+
+
 
 
 
