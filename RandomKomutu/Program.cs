@@ -48,13 +48,52 @@ namespace RandomKomutu
 
             //Proje3
 
-            Random rastgele= new Random();
-            int sayi;
-            sayi=rastgele.Next(50);   // Parantez içi bize değerin 0 ile 50 arasında geleceğini söylüyor.
+            //Random rastgele= new Random();
+            //int sayi;
+            //sayi=rastgele.Next(50);   // Parantez içi bize değerin 0 ile 50 arasında geleceğini söylüyor.
 
-            Console.WriteLine(sayi);
+            //Console.WriteLine(sayi);
 
-            Console.ReadLine();
+            //Console.ReadLine();
+
+
+
+
+
+
+
+
+            //Proje4
+
+
+            //Random rastgele= new Random();
+            //int s1;
+            //s1 = rastgele.Next();  //Parantez içinde bir şey yazmayınca komut istediği kadar büyük bir değer atayabilir.
+
+            //Console.WriteLine(s1);
+            //Console.ReadLine();
+
+
+
+
+
+
+
+            //Proje5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
