@@ -42,6 +42,35 @@ namespace ForeachDongusu
 
 
 
+            //Proje3
+
+            //int[] sayilar = { 1, 3, 5, 6, 4 };
+            //int toplam = 0;
+
+            //foreach(int i in sayilar)
+            //{
+            //    toplam = toplam + i;
+            //}
+
+            //Console.WriteLine("Toplam:" + toplam);
+            //Console.ReadLine(); 
+
+
+
+
+
+
+            //Proje4
+
+
+
+
+
+
+
+
+
+
 
 
 
