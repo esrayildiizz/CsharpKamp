@@ -137,6 +137,85 @@ namespace Diziler
 
 
 
+            //Proje6
+            // Verilen dizideki 10 ile 30 arasındaki çitf sayıları yazdır komutu
+
+            //int[] sayilar= {4,1,7,-8,23,14,51,-40,95, 9};
+            //foreach(int i in sayilar)
+
+            //{
+            //   if(i<=30 && i>=10 && i % 2 == 0)
+            //    {
+            //        Console.WriteLine(i);   
+            //    }
+            //}
+
+            //Console.Read();
+
+
+
+
+
+
+
+
+
+            //Proje7
+
+            //int[] sayilar = new int[5];
+
+            //for (int i=0;i<5;i++)
+            //{
+            //    Console.WriteLine("Sayıyı Girin: ");
+            //    sayilar[i] = Convert.ToInt32(Console.ReadLine());
+            //}
+
+            //Console.WriteLine("****Sıralama****");
+
+            //Array.Sort(sayilar);
+            //foreach(int i in sayilar)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            //Console.ReadLine();
+
+
+
+
+
+
+
+            //Proje8 //Girilen degerleri tersten yazdırma (reverse)
+
+
+            //int[] sayilar = new int[5];
+
+            //for (int i = 0; i < 5; i++)
+            //{
+            //    Console.WriteLine("Sayıyı Girin: ");
+            //    sayilar[i] = Convert.ToInt32(Console.ReadLine());
+            //}
+
+            //Console.WriteLine("****Sıralama****");
+
+            //Array.Reverse (sayilar);
+            //foreach (int i in sayilar)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            //Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
 
 
 
