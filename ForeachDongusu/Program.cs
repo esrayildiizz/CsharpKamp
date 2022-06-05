@@ -63,14 +63,32 @@ namespace ForeachDongusu
             //Proje4
 
 
+            //int[] rakamlar = { 1, 7, 6, 4, 8, 9, 5 };
+
+            //foreach(int i in rakamlar)
+            //{
+            //   if(i % 2 == 0)
+            //    {
+            //        Console.WriteLine(i);   
+            //    }
+
+            //}
+            //Console.ReadLine();
 
 
 
 
+            //Proje5
 
+            //int[] degerler = { 1, 2, 3, 4, 5, 6 };
+            //int sonuc = 1;
 
-
-
+            //foreach(int i in degerler)
+            //{
+            //    sonuc = sonuc * i;
+            //}
+            //Console.WriteLine("6 sayısının faktöriyeli: " + sonuc);
+            //Console.ReadLine();
 
 
 
