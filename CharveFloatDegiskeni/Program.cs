@@ -114,10 +114,7 @@ namespace CharveFloatDegiskeni
 
 
 
-
-
-
-            //Proje4  //Float degiskeni
+            //Proje4  //Float degiskeninde hassasiyet 7 basamaktır.
 
             //float sayi;
             //sayi = 123;
@@ -136,27 +133,33 @@ namespace CharveFloatDegiskeni
 
             //Proje5
 
-            float s1, s2, toplam;
+            //float s1, s2, toplam;
 
-            Console.WriteLine("Birinci sayıyı giriniz: ");
-            s1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("İkinci sayıyı giriniz: ");
-            s2 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Birinci sayıyı giriniz: ");
+            //s1 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("İkinci sayıyı giriniz: ");
+            //s2 = Convert.ToInt32(Console.ReadLine());
 
-            toplam = s1 + s2;
+            //toplam = s1 + s2;
 
-            Console.WriteLine( "TOPLAM: "+ toplam);
+            //Console.WriteLine( "TOPLAM: "+ toplam);
+
+            //Console.ReadLine();
+
+
+
+
+
+
+
+
+            //Proje6  // float degıskeninde hassasiyet 7 basamak olduğu için fazlasını  düzgün yansıtmaz.
+
+            float deger;
+            deger = 123456789;
+            Console.WriteLine("Sayı: "+ deger);
 
             Console.ReadLine();
-
-
-
-
-
-
-
-
-
 
 
 
