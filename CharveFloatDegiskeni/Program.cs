@@ -29,10 +29,32 @@ namespace CharveFloatDegiskeni
 
 
 
+            //Proje2
 
 
+            char cinsiyet;
+
+            Console.WriteLine("***Cinsiyetinizi Giriniz***");
+            
+
+            cinsiyet = Convert.ToChar(Console.ReadLine());
+
+            if(cinsiyet == 'e' || cinsiyet=='E')
+            {
+                Console.WriteLine("Cinsiyet Erkektir...");
+            }
+
+            else if(cinsiyet == 'k' || cinsiyet=='K')
+            {
+                Console.WriteLine("Cinsiyet Kadındır....");
+            }
 
 
+            else
+            {
+                Console.WriteLine("Hatalı Giriş Yaptınız");
+            }
+            Console.ReadLine();
 
 
 
