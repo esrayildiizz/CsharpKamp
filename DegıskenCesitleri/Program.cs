@@ -29,6 +29,38 @@ namespace DegıskenCesitleri
 
 
 
+            //Proje2
+
+            ////Tür dönüşümleri yapılırken küçük tür'ü büyük tür'e uydurmamız gerekir.
+
+
+            //decimal s1;
+            //int s2;
+
+            //s1=2.52m;
+            //s2 = 6;
+
+            //decimal toplam;
+            ////toplam degeri int ile tanımlayınca hata veriyor. Çünkü int decimal'e göre küçük tür olarak kalıyor.
+
+            //toplam = s1 + s2;
+
+            //Console.WriteLine("Toplam: " +toplam);
+
+            //Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
         }
