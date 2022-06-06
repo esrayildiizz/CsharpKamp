@@ -119,22 +119,35 @@ namespace CharveFloatDegiskeni
 
             //Proje4  //Float degiskeni
 
-            float sayi;
-            sayi = 123;
+            //float sayi;
+            //sayi = 123;
 
-            Console.WriteLine("Sayı: " + sayi);
+            //Console.WriteLine("Sayı: " + sayi);
 
+
+            //Console.ReadLine();
+
+
+
+
+
+
+
+
+            //Proje5
+
+            float s1, s2, toplam;
+
+            Console.WriteLine("Birinci sayıyı giriniz: ");
+            s1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("İkinci sayıyı giriniz: ");
+            s2 = Convert.ToInt32(Console.ReadLine());
+
+            toplam = s1 + s2;
+
+            Console.WriteLine( "TOPLAM: "+ toplam);
 
             Console.ReadLine();
-
-
-
-
-
-
-
-
-
 
 
 
