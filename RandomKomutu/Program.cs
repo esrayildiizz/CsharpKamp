@@ -82,20 +82,20 @@ namespace RandomKomutu
             //Proje5
 
             
-            Random rastgele = new Random();
+            //Random rastgele = new Random();
 
-            Console.WriteLine("**** Şehir Atama Programı****");
+            //Console.WriteLine("**** Şehir Atama Programı****");
 
-            string[] sehirler = { "Adana", "Antalya", "İzmir", "Aydın", "Edirne", "Trabzon" };
+            //string[] sehirler = { "Adana", "Antalya", "İzmir", "Aydın", "Edirne", "Trabzon" };
 
-            int a;
+            //int a;
 
-            a=rastgele.Next(0,sehirler.Length);  // Sehirler dizisindeki son değere göre  al demek.
+            //a=rastgele.Next(0,sehirler.Length);  // Sehirler dizisindeki son değere göre  al demek.
 
-            Console.WriteLine(a);
-            Console.WriteLine(sehirler[a]);
+            //Console.WriteLine(a);
+            //Console.WriteLine(sehirler[a]);
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
 
 
