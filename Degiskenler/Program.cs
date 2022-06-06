@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ınt_değişkeni
+namespace İntdegiskeni
 {
     public class Program
     {
