@@ -80,14 +80,27 @@ namespace DegıskenCesitleri
 
 
 
+            //Proje4
 
 
+            //decimal urun1, urun2, toplam;
 
+            //int s1, s2;
 
+            //urun1 = 14.85m;
+            //urun2 = 21.48m;
 
+            //Console.WriteLine("1.Ürünün Satış Miktarı: \n");
+            //s1 = Convert.ToInt16(Console.ReadLine());
 
+            //Console.WriteLine("2.Ürünün Satış Miktarı: \n");
+            //s2 = Convert.ToInt16(Console.ReadLine());   
 
+            //toplam= s1*urun1+ s2*urun2;
 
+            //Console.WriteLine("Gün sonunda kasada olması gereken tutar: " + toplam);
+
+            //Console.ReadLine();
 
 
 
