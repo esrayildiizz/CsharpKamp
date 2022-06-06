@@ -59,6 +59,47 @@ namespace DegıskenCesitleri
 
 
 
+            //Proje3
+            //{0:C} kullanımı verilen ondalıklı sayıyı yuvarlama işlemi yapar.
+
+            //decimal x = 0.996m;
+            //decimal y = 999999;
+            //decimal z = 0.991m;
+
+            //Console.WriteLine("Para1: {0:C}" , x);
+            //Console.WriteLine("Para2: {0:C}" , y);
+            //Console.WriteLine("Para3: {0:C}"  , z); 
+
+            //Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
