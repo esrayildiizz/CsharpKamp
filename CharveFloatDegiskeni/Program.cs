@@ -67,44 +67,113 @@ namespace CharveFloatDegiskeni
 
             //Proje3
 
-            char ders;
+            //char ders;
 
-            Console.WriteLine("**** Ygs Dersleri Menüsü****\n");
-            Console.WriteLine("Türkçe...t/T");
-            Console.WriteLine("Matematik...m/m");
-            Console.WriteLine("Sosyal Bilgisi...s/S");
-            Console.WriteLine("Fen Bilgisi...f/F");
-            Console.WriteLine("Hangi Dersin Bilgilerini Görmek İstersiniz: \n");
+            //Console.WriteLine("**** Ygs Dersleri Menüsü****\n");
+            //Console.WriteLine("Türkçe...t/T");
+            //Console.WriteLine("Matematik...m/m");
+            //Console.WriteLine("Sosyal Bilgisi...s/S");
+            //Console.WriteLine("Fen Bilgisi...f/F");
+            //Console.WriteLine("Hangi Dersin Bilgilerini Görmek İstersiniz: \n");
 
-            ders = Convert.ToChar(Console.ReadLine());
+            //ders = Convert.ToChar(Console.ReadLine());
 
-            if(ders == 't'  || ders== 'T')
-            {
-                Console.WriteLine("Türkçe dersi paragraf ağırlıklı olup dil bilgisi soruları içerir.");
+            //if(ders == 't'  || ders== 'T')
+            //{
+            //    Console.WriteLine("Türkçe dersi paragraf ağırlıklı olup dil bilgisi soruları içerir.");
 
-            }
+            //}
 
-            else if(ders == 'm' || ders=='M')
-            {
-                Console.WriteLine("Matematik dersi  temel mat1 ve geometri soruları içerir.");
-            }
+            //else if(ders == 'm' || ders=='M')
+            //{
+            //    Console.WriteLine("Matematik dersi  temel mat1 ve geometri soruları içerir.");
+            //}
 
-            else if(ders== 's'  || ders == 'S')
-            {
-                Console.WriteLine("Sosyal bilgiler dersi tarih ve coğrafya dersleri içerir.");
-            }
+            //else if(ders== 's'  || ders == 'S')
+            //{
+            //    Console.WriteLine("Sosyal bilgiler dersi tarih ve coğrafya dersleri içerir.");
+            //}
 
-            else if (ders== 'f' || ders == 'F')
-            {
-                Console.WriteLine("Fen bilgiler dersi fizik kimya ve biyoloji dersleri içerir. ");
-            }
+            //else if (ders== 'f' || ders == 'F')
+            //{
+            //    Console.WriteLine("Fen bilgiler dersi fizik kimya ve biyoloji dersleri içerir. ");
+            //}
 
-            else
-            {
-                Console.WriteLine("HATALI GİRİŞ YAPTINIZ!!");
-            }
+            //else
+            //{
+            //    Console.WriteLine("HATALI GİRİŞ YAPTINIZ!!");
+            //}
+
+            //Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+
+
+            //Proje4  //Float degiskeni
+
+            float sayi;
+            sayi = 123;
+
+            Console.WriteLine("Sayı: " + sayi);
+
 
             Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
