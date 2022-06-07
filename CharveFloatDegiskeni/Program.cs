@@ -12,7 +12,8 @@ namespace CharveFloatDegiskeni
         {
 
 
-            //Proje1   // Char degiskeninde tek karakterli veriler kullanılır.
+            //Proje1  
+            // Char degiskeninde tek karakterli veriler kullanılır.
 
 
             //char harf;
