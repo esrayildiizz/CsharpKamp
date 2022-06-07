@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharveFloatDegiskeni", "Cha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegıskenCesitleri", "DegıskenCesitleri\DegıskenCesitleri.csproj", "{13A557CC-1D49-4246-975F-30B24F042E19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkaPlanRengiDegistirme", "ArkaPlanRengiDegistirme\ArkaPlanRengiDegistirme.csproj", "{2EF31073-47B2-4D6C-A3AC-183C9BCC3656}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{13A557CC-1D49-4246-975F-30B24F042E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13A557CC-1D49-4246-975F-30B24F042E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13A557CC-1D49-4246-975F-30B24F042E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF31073-47B2-4D6C-A3AC-183C9BCC3656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF31073-47B2-4D6C-A3AC-183C9BCC3656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF31073-47B2-4D6C-A3AC-183C9BCC3656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF31073-47B2-4D6C-A3AC-183C9BCC3656}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

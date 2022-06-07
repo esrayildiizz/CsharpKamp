@@ -13,13 +13,24 @@ namespace ArkaPlanRengiDegistirme
 
             //Arka ekranı siyah olmasını istemediğimizde aşağıdaki komutlarla farklı bir renk yapabiliriz.
 
-            Console.BackgroundColor= ConsoleColor.Green;
+            //Console.BackgroundColor= ConsoleColor.Green;
+            //Console.Clear();
+            //Console.WriteLine("Nasılsınız.");
+            //Console.ReadLine();
+
+
+            //Eğerki rengini değiştiğiniz  arka ekranın  yazı rengini de değişmek isterseniz aşağıdaki komutu ekleriz.
+
+
+            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.Clear();
             Console.WriteLine("Nasılsınız.");
             Console.ReadLine();
 
 
-            //Eğerki rengini değiştiğiniz  arka ekranın  yazı rengini de değişmek isterseniz aşağıdaki komutu ekleriz.
+
+
 
 
 
