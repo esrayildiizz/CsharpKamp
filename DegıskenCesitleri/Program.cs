@@ -112,23 +112,40 @@ namespace DegıskenCesitleri
             //Proje5 ( byte: 0 ile 255 arasındaki değerleri alır.)
 
 
-            byte sayi;
-            sayi = 255; //256 yazınca hata veriyor.
-            Console.WriteLine(sayi);
+            //byte sayi;
+            //sayi = 255; //256 yazınca hata veriyor.
+            //Console.WriteLine(sayi);
+
+            //Console.ReadLine();
+
+
+
+
+
+
+
+
+
+            //Proje6 //Sbyte, byte'ın ikiye bölünmüş halidir.Yarısı negatif yarısı pozitif olmak üzere.
+            //(sbyte: -128 ,0 ve 127 aralığındaki değerleri kapsar.)
+
+
+
+            Console.WriteLine("****Doğu Anadolu Bölgesi Hava Durumu****");
+
+            Console.WriteLine(" 1 Ocak 2022 Hava Tahminleri \n");
+
+            sbyte Erzurum, Malatya, Elazıg;
+
+            Erzurum = -35;
+            Malatya = 3;
+            Elazıg = -7;
+
+            Console.WriteLine("Erzurum Karlı: " + Erzurum);
+            Console.WriteLine("Malatya Çok Bulutlu:  " + Malatya);
+            Console.WriteLine("Elazığ Karla Karışık Yağmurlu: " + Elazıg);
 
             Console.ReadLine();
-
-
-
-
-
-
-            //Proje6
-
-           
-
-
-
 
 
 
