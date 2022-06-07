@@ -109,6 +109,39 @@ namespace DegıskenCesitleri
 
 
 
+            //Proje5 ( byte: 0 ile 255 arasındaki değerleri alır.)
+
+
+            byte sayi;
+            sayi = 255; //256 yazınca hata veriyor.
+            Console.WriteLine(sayi);
+
+            Console.ReadLine();
+
+
+
+
+
+
+            //Proje6
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
