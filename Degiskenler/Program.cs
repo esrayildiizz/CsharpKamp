@@ -11,6 +11,7 @@ namespace İntdegiskeni
         static void Main(string[] args)
         {
             string ad, soyad, numara;
+
             int sınav1, sınav2, sınav3, proje, ortalama;
 
             Console.WriteLine();
