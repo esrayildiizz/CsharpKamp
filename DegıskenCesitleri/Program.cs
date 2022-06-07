@@ -126,28 +126,59 @@ namespace DegıskenCesitleri
 
 
 
-            //Proje6 //Sbyte, byte'ın ikiye bölünmüş halidir.Yarısı negatif yarısı pozitif olmak üzere.
+            //Proje6 
+            //Sbyte, byte'ın ikiye bölünmüş halidir.Yarısı negatif yarısı pozitif olmak üzere.
             //(sbyte: -128 ,0 ve 127 aralığındaki değerleri kapsar.)
 
 
 
-            Console.WriteLine("****Doğu Anadolu Bölgesi Hava Durumu****");
+            //Console.WriteLine("****Doğu Anadolu Bölgesi Hava Durumu****");
 
-            Console.WriteLine(" 1 Ocak 2022 Hava Tahminleri \n");
+            //Console.WriteLine(" 1 Ocak 2022 Hava Tahminleri \n");
 
-            sbyte Erzurum, Malatya, Elazıg;
+            //sbyte Erzurum, Malatya, Elazıg;
 
-            Erzurum = -35;
-            Malatya = 3;
-            Elazıg = -7;
+            //Erzurum = -35;
+            //Malatya = 3;
+            //Elazıg = -7;
 
-            Console.WriteLine("Erzurum Karlı: " + Erzurum);
-            Console.WriteLine("Malatya Çok Bulutlu:  " + Malatya);
-            Console.WriteLine("Elazığ Karla Karışık Yağmurlu: " + Elazıg);
+            //Console.WriteLine("Erzurum Karlı: " + Erzurum);
+            //Console.WriteLine("Malatya Çok Bulutlu:  " + Malatya);
+            //Console.WriteLine("Elazığ Karla Karışık Yağmurlu: " + Elazıg);
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
 
+
+
+
+
+
+
+
+
+
+            //Proje7  //short degiskeni
+
+            //short s1, s2, s3;
+            //s1 = 50;
+            //s2 = 35;
+            //s3 = 40;
+
+            //Console.WriteLine(s1+s2+s3);
+            //Console.ReadLine();
+
+
+
+            //Proje8 //ushort degiskeni
+
+            //ushort s1, s2;
+            //s1 = 1;
+            //s2 = 20;
+
+            //Console.WriteLine(s1+s2);
+
+            //Console.ReadLine();
 
 
 

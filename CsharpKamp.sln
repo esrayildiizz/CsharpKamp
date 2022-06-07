@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{6BD16A8F-FE21-4962-A4A5-E1104DE6EE72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intdegiskeni", "Degiskenler\intdegiskeni.csproj", "{6BD16A8F-FE21-4962-A4A5-E1104DE6EE72}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerhabaDunya", "Merhaba Dunya\MerhabaDunya.csproj", "{45CC8B7C-E0D4-4EF2-830E-D762CE08C4C7}"
 EndProject
@@ -28,6 +28,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomKomutu", "RandomKomutu\RandomKomutu.csproj", "{E30118A5-9E87-43C6-88CA-EAEE364AA75D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharveFloatDegiskeni", "CharveFloatDegiskeni\CharveFloatDegiskeni.csproj", "{95EF6EC8-807A-4E07-92A9-1207AF791516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegıskenCesitleri", "DegıskenCesitleri\DegıskenCesitleri.csproj", "{13A557CC-1D49-4246-975F-30B24F042E19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{95EF6EC8-807A-4E07-92A9-1207AF791516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95EF6EC8-807A-4E07-92A9-1207AF791516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95EF6EC8-807A-4E07-92A9-1207AF791516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A557CC-1D49-4246-975F-30B24F042E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A557CC-1D49-4246-975F-30B24F042E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A557CC-1D49-4246-975F-30B24F042E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A557CC-1D49-4246-975F-30B24F042E19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

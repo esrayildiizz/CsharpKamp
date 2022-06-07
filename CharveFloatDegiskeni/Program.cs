@@ -155,11 +155,11 @@ namespace CharveFloatDegiskeni
 
             //Proje6  // float degıskeninde hassasiyet 7 basamak olduğu için fazlasını  düzgün yansıtmaz.
 
-            float deger;
-            deger = 123456789;
-            Console.WriteLine("Sayı: "+ deger);
+            //float deger;
+            //deger = 123456789;
+            //Console.WriteLine("Sayı: "+ deger);
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
 
 
