@@ -15,13 +15,25 @@ namespace Fonksiyonlar
 
             // Mutlak değer alma.
 
-            int sayi;
-            Console.WriteLine("Sayıyı girin: ");
-            sayi = Convert.ToInt32(Console.ReadLine());
+            //int sayi;
+            //Console.WriteLine("Sayıyı girin: ");
+            //sayi = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Mutlak Değerli Hali: " + Math.Abs(sayi));
+            //Console.WriteLine("Mutlak Değerli Hali: " + Math.Abs(sayi));
 
-            Console.ReadLine();
+            //Console.ReadLine();
+
+
+
+            // Üste yuvarlama .
+
+            //double sayi;
+            //Console.WriteLine("Sayıyı girin: ");
+            //sayi=Convert.ToDouble(Console.ReadLine());
+
+            //Console.WriteLine("Sayının Üste Yuvarlanmış Hali: " + Math.Ceiling(sayi));
+
+            //Console.Read();
 
 
 
