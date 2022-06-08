@@ -73,8 +73,35 @@ namespace Fonksiyonlar
             //sayi = Convert.ToDouble(Console.ReadLine());
 
             //Console.WriteLine("Sonuç: " + Math.Sqrt(sayi));
-            
+
             //Console.Read();
+
+
+
+
+
+
+
+            //Cos-Sin değerleri bulma.
+
+            //double sayi;
+            //Console.WriteLine("Dereceyi girin: ");
+            //sayi = Convert.ToDouble(Console.ReadLine());
+
+            //Console.WriteLine("Sonuç: " + Math.Sin(sayi));
+
+            //Console.Read();
+
+
+
+
+
+
+
+
+
+
+
 
 
 
