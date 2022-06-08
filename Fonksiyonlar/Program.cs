@@ -51,6 +51,16 @@ namespace Fonksiyonlar
 
 
 
+            // Üs alma. 
+
+            //double sayi;
+            //Console.WriteLine("Sayıyı girin: ");
+            //sayi=Convert.ToDouble(Console.ReadLine());
+
+            //Console.WriteLine("Sonuç: " + Math.Pow(sayi,5));
+            //// 5. kuvvetini alma örneğini yaptım.
+            //Console.Read();
+
 
 
 
