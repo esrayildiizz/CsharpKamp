@@ -13,7 +13,7 @@ namespace Fonksiyonlar
 
             //Proje1 //Matematiksel Fonksiyonlar
 
-            // Mutlak değer alma.
+            // Mutlak değer alma. (abs)
 
             //int sayi;
             //Console.WriteLine("Sayıyı girin: ");
@@ -25,7 +25,7 @@ namespace Fonksiyonlar
 
 
 
-            // Üste yuvarlama .
+            // Üste yuvarlama . (ceiling)
 
             //double sayi;
             //Console.WriteLine("Sayıyı girin: ");
@@ -37,7 +37,7 @@ namespace Fonksiyonlar
 
 
 
-            // Alta yuvarlama.
+            // Alta yuvarlama. (floor)
 
             //double sayi;
             //Console.WriteLine("Sayıyı girin: ");
@@ -51,7 +51,7 @@ namespace Fonksiyonlar
 
 
 
-            // Üs alma. 
+            // Üs alma. (pow)
 
             //double sayi;
             //Console.WriteLine("Sayıyı girin: ");
@@ -66,8 +66,15 @@ namespace Fonksiyonlar
 
 
 
+            // Karakök alma. (sqrt)
 
+            //double sayi;
+            //Console.WriteLine("Sayıyı girin: ");
+            //sayi = Convert.ToDouble(Console.ReadLine());
 
+            //Console.WriteLine("Sonuç: " + Math.Sqrt(sayi));
+            
+            //Console.Read();
 
 
 
