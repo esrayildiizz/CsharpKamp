@@ -37,6 +37,28 @@ namespace Fonksiyonlar
 
 
 
+            // Alta yuvarlama.
+
+            //double sayi;
+            //Console.WriteLine("Sayıyı girin: ");
+            //sayi=Convert.ToDouble(Console.ReadLine());
+
+            //Console.WriteLine("Sayının Alta Yuvarlanmış Hali: " + Math.Floor(sayi));
+
+            //Console.Read();
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
