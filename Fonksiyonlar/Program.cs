@@ -99,6 +99,25 @@ namespace Fonksiyonlar
 
 
 
+            // Max-Min değerleri bulma.
+
+
+            //double sayi1, sayi2;
+            //Console.WriteLine("1.Sayıyı Girin: ");
+            //sayi1=Convert.ToDouble(Console.ReadLine());
+            //Console.WriteLine("2.Sayıyı Girin. ");
+            //sayi2= Convert.ToDouble(Console.ReadLine());
+
+            //Console.WriteLine("Büyük sayi: " + Math.Max(sayi1,sayi2));
+
+            //Console.ReadLine();
+
+
+
+
+
+
+
 
 
 
