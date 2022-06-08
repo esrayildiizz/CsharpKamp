@@ -81,57 +81,118 @@ namespace CokBoyutluDiziler
 
             //Proje3
 
-            //int satir, sutun;
-            //Console.WriteLine("Satır sayısını girin: ");
-            //satir=Convert.ToInt32(Console.ReadLine());
+            int satir, sutun;
+            int carpim;
+            Console.WriteLine("Satır sayısını girin: ");
+            satir = Convert.ToInt32(Console.ReadLine());
 
-            //Console.WriteLine("Sütün sayısını girin: ");
-            //sutun = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Sütün sayısını girin: ");
+            sutun = Convert.ToInt32(Console.ReadLine());
 
-            //int[,] matris= new int[satir, sutun];   
-
-
-            //for(int i = 0; i < satir; i++)
-            //{
-            //    for( int j=0; j < sutun; j++)
-            //    {
-            //        Console.Write("Matrisin {0} x {1} Değeri: " , i+1,j+1);  //{0} satıra karşılık gelicek, {1} sütüna karşılık gelicek.
-            //        matris[i,j] = Convert.ToInt32(Console.ReadLine());
-            //    }
-
-            //}
-            //Console.WriteLine();
-            //Console.WriteLine("Matris: ");
-
-            ////Matrisi Yazdırma komutları
-
-            //for (int k = 0; k <satir; k++)
-            //{
-            //    for(int n=0; n<sutun; n++)
-            //    {
-            //        Console.Write(matris[k,n]+ " " );
-               
-            //    }
-            //    Console.WriteLine();
-            //}
-            //Console.WriteLine();
-            //Console.WriteLine("Matris Transpoze: ");
-
-            //// Matris Transpoze 
-            ////Kare matris için geçerli.
-
-            //for(int x=0; x<satir; x++)
-            //{
-            //    for (int y=0 ; y< sutun; y++)
-            //    {
-            //        Console.Write(matris[y,x] + " ");
-            //    }
-            //    Console.WriteLine();
-            //}
+            int[,] matris = new int[satir, sutun];
 
 
+            for (int i = 0; i < satir; i++)
+            {
+                for (int j = 0; j < sutun; j++)
+                {
+                    Console.Write("Matrisin {0} x {1} Değeri: ", i + 1, j + 1);  //{0} satıra karşılık gelicek, {1} sütüna karşılık gelicek.
+                    matris[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
 
-            //Console.ReadLine();
+            }
+            Console.WriteLine();
+
+
+            //Matrisi Yazdırma komutları
+
+            Console.WriteLine("Matris: ");
+
+
+            for (int k = 0; k < satir; k++)
+            {
+                for (int n = 0; n < sutun; n++)
+                {
+                    Console.Write(matris[k, n] + " ");
+
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+
+            //Matris Transpoze
+            //Kare matris için geçerli.
+
+            Console.WriteLine("Matris Transpoze: ");
+
+            for (int x = 0; x < satir; x++)
+            {
+                for (int y = 0; y < sutun; y++)
+                {
+                    Console.Write(matris[y, x] + " ");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine();
+
+            //Kat Sayı İle Çarpımı
+
+            Console.Write("Matrisin Hangi Sayı İle Çarpılsın: ");
+            carpim=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine();
+
+            for (int s=0; s<satir; s++)
+            {
+                for(int p=0; p<sutun; p++)
+                {
+                    Console.Write(matris[s,p]*carpim + "  ");
+                   
+                }
+                Console.WriteLine();
+            }
+
+
+
+            Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
