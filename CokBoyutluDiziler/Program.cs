@@ -147,7 +147,7 @@ namespace CokBoyutluDiziler
             //    for(int p=0; p<sutun; p++)
             //    {
             //        Console.Write(matris[s,p]*carpim + "  ");
-                   
+
             //    }
             //    Console.WriteLine();
             //}
@@ -167,12 +167,28 @@ namespace CokBoyutluDiziler
 
 
 
+            //Proje4 Determinant Alma
 
 
+            //int a, b, c, d, sonuc;
+
+            //Console.WriteLine("A Değeri: ");
+            //a=Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("B Değeri: ");
+            //b=Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("C Değeri: ");
+            //c=Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("D Değeri: ");
+            //d=Convert.ToInt32(Console.ReadLine());
+
+            //sonuc = Math.Abs((a * d) - (b * c));
+            //Console.WriteLine("Determinant: " + sonuc);
 
 
-
-
+            //Console.Read();
 
 
 
