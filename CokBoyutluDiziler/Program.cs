@@ -104,7 +104,7 @@ namespace CokBoyutluDiziler
             Console.WriteLine();
 
 
-            //Matrisi Yazdırma komutları
+            //Matrisi Yazdırma komutları aşağıdaki gibidir.
 
             Console.WriteLine("Matris: ");
 
