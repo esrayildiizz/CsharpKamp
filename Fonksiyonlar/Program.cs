@@ -170,7 +170,10 @@ namespace Fonksiyonlar
             Console.WriteLine("Tarih Formatı2: {0:G} " , zaman);
             Console.WriteLine("Ay: {0:M} " , zaman);
             Console.WriteLine("Biçim: {0:r} " , zaman);
-            Console.WriteLine("Biçim: {0:R} ", zaman);
+            Console.WriteLine("Biçim2: {0:s} ", zaman);
+            Console.WriteLine("Saat: {0:t} ", zaman);
+            Console.WriteLine("Saat2: {0:T} ", zaman);
+      
             Console.ReadLine();
 
 
