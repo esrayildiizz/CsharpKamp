@@ -149,6 +149,95 @@ namespace Fonksiyonlar
 
 
 
+            //Proje4 KISALTMALAR
+            // kısa tarih=d
+            // uzun tarih=D
+            // tam tarih=f
+
+            DateTime zaman;
+            zaman = DateTime.Now;
+
+            Console.WriteLine("C# Dersleri Tarih Saat Fonksiyonları");
+            Console.WriteLine();
+
+            Console.WriteLine("Kısa Tarih: {0:d} " , zaman);
+            Console.WriteLine("Uzun Tarih:  {0:D} " , zaman);
+            Console.WriteLine("Tam Tarih: {0:f} , " , zaman);
+            Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
