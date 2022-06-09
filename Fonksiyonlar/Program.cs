@@ -153,7 +153,8 @@ namespace Fonksiyonlar
             // kısa tarih=d
             // uzun tarih=D
             // tam tarih=f  - tam tarih ve sonuna saniye ekleme=F
-          
+            // g ve G arasındaki fark saniye farkıdır.
+            // m veya M ikiside ay 
 
             DateTime zaman;
             zaman = DateTime.Now;
@@ -167,6 +168,9 @@ namespace Fonksiyonlar
             Console.WriteLine("Tam Tarih2: {0:F} " , zaman);
             Console.WriteLine("Tarih Formatı: {0:g} " , zaman);
             Console.WriteLine("Tarih Formatı2: {0:G} " , zaman);
+            Console.WriteLine("Ay: {0:M} " , zaman);
+            Console.WriteLine("Biçim: {0:r} " , zaman);
+            Console.WriteLine("Biçim: {0:R} ", zaman);
             Console.ReadLine();
 
 
