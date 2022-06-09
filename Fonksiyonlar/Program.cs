@@ -65,7 +65,6 @@ namespace Fonksiyonlar
 
 
 
-
             // Karakök alma. (sqrt)
 
             //double sayi;
@@ -75,8 +74,6 @@ namespace Fonksiyonlar
             //Console.WriteLine("Sonuç: " + Math.Sqrt(sayi));
 
             //Console.Read();
-
-
 
 
 
@@ -94,11 +91,6 @@ namespace Fonksiyonlar
 
 
 
-
-
-
-
-
             // Max-Min değerleri bulma.
 
 
@@ -111,6 +103,30 @@ namespace Fonksiyonlar
             //Console.WriteLine("Büyük sayi: " + Math.Max(sayi1,sayi2));
 
             //Console.ReadLine();
+
+
+
+
+
+
+            //Proje2 //Zaman Fonksiyonları
+
+
+            DateTime zaman;
+            zaman = DateTime.Now;
+
+            Console.WriteLine("Tarih ve Saat: {0} " , zaman);
+
+            Console.ReadLine();
+
+
+
+
+
+
+
+
+
 
 
 
