@@ -112,25 +112,35 @@ namespace Fonksiyonlar
             //Proje2 //Zaman Fonksiyonları
 
 
-            DateTime zaman;
-            zaman = DateTime.Now;
+            //DateTime zaman;
+            //zaman = DateTime.Now;
 
-            Console.WriteLine("Tarih ve Saat: {0} " , zaman);
+            //Console.WriteLine("Tarih ve Saat: {0} " , zaman);
 
-            Console.ReadLine();
-
-
+            //Console.ReadLine();
 
 
 
 
 
+            //Proje3
 
 
+            //DateTime zaman;
+            //zaman = DateTime.Now;
 
+            //int ay = zaman.Month;
+            //int gun = zaman.Day;
+            //int yil = zaman.Year;
 
+            //DayOfWeek haftanıngunu = zaman.DayOfWeek;
+            //Console.WriteLine( "Gün:  {0} ", gun);
+            //Console.WriteLine("Ay:  {0} ", ay);
+            //Console.WriteLine("Yıl:  {0} ", yil);
 
+            //Console.WriteLine("Haftanın Günü:  {0} ",haftanıngunu );
 
+            //Console.ReadLine();
 
 
 
