@@ -152,7 +152,7 @@ namespace Fonksiyonlar
             //Proje4 KISALTMALAR
             // kısa tarih=d
             // uzun tarih=D
-            // tam tarih=f
+            // tam tarih=f  - tam tarih ve sonuna saniye ekleme=F
 
             DateTime zaman;
             zaman = DateTime.Now;
@@ -162,7 +162,8 @@ namespace Fonksiyonlar
 
             Console.WriteLine("Kısa Tarih: {0:d} " , zaman);
             Console.WriteLine("Uzun Tarih:  {0:D} " , zaman);
-            Console.WriteLine("Tam Tarih: {0:f} , " , zaman);
+            Console.WriteLine("Tam Tarih: {0:f}  " , zaman);
+            Console.WriteLine("Tam Tarih2: {0:F} " , zaman);
             Console.ReadLine();
 
 
