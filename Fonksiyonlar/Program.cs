@@ -173,7 +173,7 @@ namespace Fonksiyonlar
             Console.WriteLine("Biçim2: {0:s} ", zaman);
             Console.WriteLine("Saat: {0:t} ", zaman);
             Console.WriteLine("Saat2: {0:T} ", zaman);
-      
+            Console.WriteLine("Yıl: {0:Y} ", zaman);
             Console.ReadLine();
 
 
