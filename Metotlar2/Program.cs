@@ -11,30 +11,43 @@ namespace Metotlar2
 
         //Proje1
 
-        private static void yazdir(string bilgi)
+        //private static void yazdir(string bilgi)
+        //{
+        //    for (int i = 0; i < 10; i++)
+        //        Console.WriteLine(bilgi);
+
+        //}
+
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine("Metni Girin: ");
+        //    string blg = Console.ReadLine();
+        //    yazdir(blg);
+
+        //    Console.ReadLine();
+        //}
+
+
+
+
+
+        //Proje2
+
+        private static  int Topla(int s1,int s2)
+
         {
-            for (int i = 0; i < 10; i++)
-                Console.WriteLine(bilgi);
-
+            int t = s1 + s2;
+            return t;
         }
-
+        
         static void Main(string[] args)
         {
-            Console.WriteLine("Metni Girin: ");
-            string blg = Console.ReadLine();
-            yazdir(blg);
-
+            Console.WriteLine("Toplam: " + Topla(5,8));
+            Console.WriteLine("Toplam: " + Topla(18,26));
             Console.ReadLine();
         }
 
-
-
-
-
-
-
-
-
+        
 
     }
 }
