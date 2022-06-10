@@ -33,21 +33,68 @@ namespace Metotlar2
 
         //Proje2
 
-        private static  int Topla(int s1,int s2)
+        //private static  int Topla(int s1,int s2)
 
-        {
-            int t = s1 + s2;
-            return t;
-        }
+        //{
+        //    int t = s1 + s2;
+        //    return t;
+        //}
         
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine("Toplam: " + Topla(5,8));
+        //    Console.WriteLine("Toplam: " + Topla(18,26));
+        //    Console.ReadLine();
+        //}
+
+
+
+
+
+
+
+        //Proje3
+
+        private static int kupu(int sayi)
+        {
+            int kupdeger = sayi * sayi * sayi;
+            return kupdeger;
+        }
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Toplam: " + Topla(5,8));
-            Console.WriteLine("Toplam: " + Topla(18,26));
+            Console.WriteLine("Sayıyı Girin: ");
+            int s;
+            s=Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Sonuç: " + kupu(s));
             Console.ReadLine();
         }
 
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     }
 }
