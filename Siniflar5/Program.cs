@@ -18,7 +18,7 @@ namespace Siniflar5
         }
     }
 
-    class Türk : insan
+    class turk : insan
     {
         public override void selamver()
         {
@@ -27,7 +27,7 @@ namespace Siniflar5
     }
 
 
-    class Fransız : insan
+    class fransiz : insan
     {
         public override void selamver()
         {
@@ -36,7 +36,7 @@ namespace Siniflar5
     }
 
 
-    class İngiliz:insan
+    class ingiliz:insan
     {
         public override void selamver()
         {
@@ -49,7 +49,7 @@ namespace Siniflar5
     {
         static void Main(string[] args)
         {
-            İngiliz inglz=new İngiliz();   //En son hangi class'ı tanımladıysan ona göre yazılır.
+            ingiliz inglz=new ingiliz();   //En son hangi class'ı tanımladıysan ona göre yazılır.
             inglz.selamver();
             Console.Read();
         }
