@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Siniflar4
 {
+
+    //Kalıtım nasıl yapılır bunun örneğini gösterdim.Ucak:Yolcu şeklinde
     internal class Ucak:Yolcu
     {
         private string marka;
