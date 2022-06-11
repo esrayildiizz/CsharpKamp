@@ -58,7 +58,8 @@ namespace Siniflar5
         static void Main(string[] args)
         {
             azeri azr=new azeri();   //En son hangi class'ı tanımladıysan ona göre yazılır.
-            azr.selamver();          // azr : azeri için tanımladığımız bir nesnedir.
+            azr.selamver();         // azr : azeri için tanımladığımız bir nesnedir.
+
             Console.Read();
         }
     }
