@@ -45,12 +45,20 @@ namespace Siniflar5
 
 
     }
+
+    class azeri : insan
+    {
+        public override void selamver()
+        {
+            Console.WriteLine("Salam");
+        }
+    }
     internal class Program
     {
         static void Main(string[] args)
         {
-            ingiliz inglz=new ingiliz();   //En son hangi class'ı tanımladıysan ona göre yazılır.
-            inglz.selamver();
+            azeri azr=new azeri();   //En son hangi class'ı tanımladıysan ona göre yazılır.
+            azr.selamver();          // azr : azeri için tanımladığımız bir nesnedir.
             Console.Read();
         }
     }
