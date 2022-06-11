@@ -9,7 +9,7 @@ namespace Siniflar3
     internal class Emlak
     {
 
-        //Kapsülleme Örneği
+        //Kapsülleme  Get, Set Kullanımı Örneği
 
         private string semt;
         private string renk;
@@ -20,7 +20,7 @@ namespace Siniflar3
         public string Semt
         {
             get { return semt; }
-            set { semt = value.ToUpper(); }   
+            set { semt = value.ToUpper(); }
         }
         public string Renk
         {
