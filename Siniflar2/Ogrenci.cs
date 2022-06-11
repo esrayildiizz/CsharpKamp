@@ -8,6 +8,9 @@ namespace Siniflar2
 {
     internal class Ogrenci
     {
+
+        //Get and Set Blokları
+
         private string ad;
         private string soyad;
         private int yas;
