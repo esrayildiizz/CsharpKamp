@@ -26,6 +26,158 @@ namespace YemekSepeti
             Console.WriteLine("**    6-Salata      - 7.25 TL         **        13-Çay     -  1.00 TL        **");
             Console.WriteLine("**    7-Pide        - 9.50 TL         **        14-Su      -  0.50 TL        **");
             Console.WriteLine("*******************************************************************************");
+
+            for (int i=1; i<100; i++)
+            {
+                Console.WriteLine("");
+                Console.WriteLine("Alacağınız Ürünün Numarası: ");
+                secim = Convert.ToDouble(Console.ReadLine());
+
+                if (secim == 1)
+                {
+                    Console.Write("Kaç porsiyon Et Döner: ");
+                    adet= Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 20;
+                    hesap = hesap + toplam;
+                }
+
+                else if (secim == 2)
+                {
+                    Console.Write("Kaç porsiyon Tavuk Döner: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 10;
+                    hesap = hesap + toplam;
+                }
+
+
+                else if (secim == 3)
+                {
+                    Console.Write("Kaç porsiyon Tantuni: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 8.50;
+                    hesap = hesap + toplam;
+                }
+
+
+                else if (secim == 4)
+                {
+                    Console.Write("Kaç porsiyon Kokoreç: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 9.75;
+                    hesap = hesap + toplam;
+                }
+
+
+                else if (secim == 5)
+                {
+                    Console.Write("Kaç porsiyon Börek: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 5.50;
+                    hesap = hesap + toplam;
+                }
+
+                else if (secim == 6)
+                {
+                    Console.Write("Kaç porsiyon Salata: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 7.25;
+                    hesap = hesap + toplam;
+                }
+
+
+                else if (secim == 7)
+                {
+                    Console.Write("Kaç porsiyon Pide: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 9.50;
+                    hesap = hesap + toplam;
+                }
+
+
+                else if (secim == 8)
+                {
+                    Console.Write("Kaç Adet Ayran: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet *2;
+                    hesap = hesap + toplam;
+                }
+
+                else if (secim == 9)
+                {
+                    Console.Write("Kaç Adet Kola: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 5;
+                    hesap = hesap + toplam;
+                }
+
+
+                else if (secim == 10)
+                {
+                    Console.Write("Kaç Adet Fanta: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 5;
+                    hesap = hesap + toplam;
+                }
+
+
+                else if (secim == 11)
+                {
+                    Console.Write("Kaç Adet Ice Tea: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 6.75;
+                    hesap = hesap + toplam;
+                }
+
+
+
+                else if (secim == 12)
+                {
+                    Console.Write("Kaç Adet Sprite: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 5;
+                    hesap = hesap + toplam;
+                }
+
+
+                else if (secim == 13)
+                {
+                    Console.Write("Kaç Adet Çay: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 1;
+                    hesap = hesap + toplam;
+                }
+
+
+                else if (secim == 14)
+                {
+                    Console.Write("Kaç Adet Su: ");
+                    adet = Convert.ToDouble(Console.ReadLine());
+                    toplam = adet * 0.50;
+                    hesap = hesap + toplam;
+                }
+
+                else
+
+                    Console.WriteLine("Böyle Bir Şeçim Mevcut Değildir. ");
+                    Console.WriteLine();
+                    Console.WriteLine("Başka Bir İsteğiniz Var Mı? ");
+                    string cevap = Console.ReadLine();
+                if (cevap == "h" || cevap == "H" || cevap == "Hayır" || cevap == "HAYIR" || cevap == "hayır")
+                    break;
+                //break haricinde bir cevap gelirse bizi en başa götürür.
+
+            }
+
+            Console.WriteLine("Toplam Borcunuz: " + hesap);
+
+
+
+
+
+
+
+
+
             Console.Read();
 
 
