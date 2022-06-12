@@ -173,11 +173,6 @@ namespace YemekSepeti
 
 
 
-
-
-
-
-
             Console.Read();
 
 
