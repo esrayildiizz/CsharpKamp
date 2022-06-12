@@ -13,7 +13,8 @@ namespace YemekSepeti
             double secim, adet, toplam = 0;
             double hesap = 0;
             Console.WriteLine();
-            Console.WriteLine("************************************ MENÜ *************************************\n");
+            Console.WriteLine("************************************ MENÜ *************************************");
+            Console.WriteLine("**                                                                           **");
             Console.WriteLine("*******************************************************************************");
             Console.WriteLine("**          YEMEKLER                  **          İÇECEKLER                  **");
             Console.WriteLine("**                                    **                                     **");
