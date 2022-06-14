@@ -62,7 +62,6 @@ namespace AlgoritmaOrnekleri
             // Doğum tarihi girilen kişinin yaşını hesaplayan uygulama.
 
 
-           
             //Console.WriteLine("Lütfen Doğum Tarihinizi Giriniz: ");
             //DateTime dogumtarihi= Convert.ToDateTime(Console.ReadLine());
             //Console.WriteLine();
@@ -76,7 +75,22 @@ namespace AlgoritmaOrnekleri
 
 
 
+            //Proje4
+            //Girilen sayının faktöriyelini hesaplayan uygulama.
 
+
+            Console.WriteLine("Lütfen sayıyı giriniz: \n");
+            int sayi=Convert.ToInt32(Console.ReadLine());
+            int sonuc = 1;
+
+            for(int i=sayi ; i>0 ;i--)
+            {
+                sonuc *= i;
+            }
+
+            Console.WriteLine( "Girilen sayının faktöriyeli : " + sonuc);
+
+            Console.ReadLine();
 
 
 
