@@ -11,7 +11,7 @@ namespace LigTurnuvasi
         static void Main(string[] args)
         {
 
-            Console.Title = "C# Turnuvası";
+            Console.Title = "*****C# Turnuvası*****";
             Console.WriteLine("Rastgele Lig Turnuvamıza Hoşgeldiniz \n");
 
             int gs = 0;
@@ -193,7 +193,6 @@ namespace LigTurnuvasi
             }
             
                 
-                    
          
             Console.ReadLine();
         }
