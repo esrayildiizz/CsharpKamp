@@ -25,6 +25,7 @@ namespace AlgoritmaOrnekleri
             Console.WriteLine("Sonuç: " + sonuc);
 
             Console.ReadLine();
+
         }
     }
 }
