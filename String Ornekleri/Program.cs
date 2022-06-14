@@ -11,9 +11,10 @@ namespace StringOrnekleri
         static void Main(string[] args)
         {
             string ad;
-            Console.WriteLine("Lütfen İsminizi Giriniz: ");
-            ad = Console.ReadLine();
+            Console.WriteLine("Lütfen İsminizi Giriniz: \n");
+            ad = Console.ReadLine(); 
             Console.WriteLine("Merhaba: {0}", ad);
+
             Console.Read(); 
         }
     }
