@@ -37,20 +37,57 @@ namespace AlgoritmaOrnekleri
             // Proje2 
             // 1'den 10'a kadar olan sayıların küplerinin toplamını bulan uygulama.
 
+
+
+            //int i;
+            //int toplam = 0;
+
+            //for (i = 1; i <= 10; i++)
+            //{
+
+            //    toplam = toplam + (i * i * i);
+
+            //}
+
+            //Console.Write("1-10 arası toplam = " + toplam);
+            //Console.ReadLine();
+
+
+
+
+
+
+
+            //Proje3
+            // Doğum tarihi girilen kişinin yaşını hesaplayan uygulama.
+
+
            
+            //Console.WriteLine("Lütfen Doğum Tarihinizi Giriniz: ");
+            //DateTime dogumtarihi= Convert.ToDateTime(Console.ReadLine());
+            //Console.WriteLine();
+            //TimeSpan sonuc= DateTime.Now - dogumtarihi;
+            //Console.WriteLine( "Yaşınız: " + sonuc.Days/365);
 
-            int i;
-            int toplam = 0;
+            //Console.ReadLine();
 
-            for (i = 1; i <= 10; i++)
-            {
 
-                toplam = toplam + (i * i * i);
 
-            }
 
-            Console.Write("1-10 arası toplam = " + toplam);
-            Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
