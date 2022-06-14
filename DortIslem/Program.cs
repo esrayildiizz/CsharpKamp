@@ -14,27 +14,34 @@ namespace DortIslem
             Console.WriteLine("****Aritmetik Dört İşlem****");
             Console.WriteLine();
 
-            Console.WriteLine("Birinci Sayıyı Giriniz: ");
+
+            Console.WriteLine("Birinci Sayıyı Giriniz: \n");
             sayı1= Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("İkinci Sayıyı Giriniz: ");
+
+            Console.WriteLine("İkinci Sayıyı Giriniz: \n");
             sayı2= Convert.ToInt32(Console.ReadLine());
+
 
             toplam = sayı1 + sayı2;
             Console.WriteLine("Toplam: " + toplam);
             Console.WriteLine();
 
+
             fark = sayı1 - sayı2;
             Console.WriteLine("Fark: " + fark);
             Console.WriteLine();
+
 
             carpim = sayı1 * sayı2;
             Console.WriteLine("Çarpım: " + carpim);
             Console.WriteLine();
 
+
             bolum = sayı1 / sayı2;
             Console.WriteLine("Bölüm: " + bolum);
           
+
 
             Console.ReadLine();
 
