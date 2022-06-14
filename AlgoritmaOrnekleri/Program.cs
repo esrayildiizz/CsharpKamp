@@ -79,18 +79,60 @@ namespace AlgoritmaOrnekleri
             //Girilen sayının faktöriyelini hesaplayan uygulama.
 
 
-            Console.WriteLine("Lütfen sayıyı giriniz: \n");
-            int sayi=Convert.ToInt32(Console.ReadLine());
-            int sonuc = 1;
+            //Console.WriteLine("Lütfen sayıyı giriniz: \n");
+            //int sayi=Convert.ToInt32(Console.ReadLine());
+            //int sonuc = 1;
 
-            for(int i=sayi ; i>0 ;i--)
+            //for(int i=sayi ; i>0 ;i--)
+            //{
+            //    sonuc *= i;
+            //}
+
+            //Console.WriteLine( "Girilen sayının faktöriyeli : " + sonuc);
+
+            //Console.ReadLine();
+
+
+
+
+
+
+
+
+            //Proje5
+            //Girilen pozitif sayının kaç basamaklı olduğunu söyleyen uygulama.
+
+
+            Console.WriteLine("Lütfen basamak sayısını öğrenmek istediğiniz sayıyı giriniz:");
+            int sayi=Convert.ToInt32(Console.ReadLine());
+
+            int sayii = sayi;
+            int sonuc = 1;
+            while (true)
             {
-                sonuc *= i;
+                sayi /= 10;
+                sonuc++;
+                if (sayi < 10)
+                    break;
             }
 
-            Console.WriteLine( "Girilen sayının faktöriyeli : " + sonuc);
 
+            Console.WriteLine($"{sayii} sayısı {sonuc} basamaklısır.");
             Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
