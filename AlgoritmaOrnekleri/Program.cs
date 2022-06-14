@@ -11,7 +11,7 @@ namespace AlgoritmaOrnekleri
         static void Main(string[] args)
         {
 
-            //Proje1-Parse Kullanımı
+            //Proje1 -Parse Kullanımı
             //Kullanıcının girdiği iki sayının karelerinin toplamını veren uygulama.
 
             Console.WriteLine("Lütfen Birinci Sayıyı Giriniz...");
