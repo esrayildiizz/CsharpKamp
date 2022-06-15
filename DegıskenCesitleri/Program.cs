@@ -16,6 +16,8 @@ namespace DegıskenCesitleri
 
             //Girilen sayıya 'nokta' koyarsak hata vermemesi için 'm' harfi koymalıyız.
 
+
+
             //decimal sayi;
             //sayi = 12.345m;
             //Console.WriteLine(sayi);
@@ -32,6 +34,8 @@ namespace DegıskenCesitleri
             //Proje2
 
             ////Tür dönüşümleri yapılırken küçük tür'ü büyük tür'e uydurmamız gerekir.
+
+
 
 
             //decimal s1;
@@ -61,6 +65,8 @@ namespace DegıskenCesitleri
 
             //Proje3
             //{0:C} kullanımı verilen ondalıklı sayıyı yuvarlama işlemi yapar.
+
+
 
             //decimal x = 0.996m;
             //decimal y = 999999;
