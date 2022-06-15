@@ -8,7 +8,8 @@ namespace Metotlar
 {
     internal class Program
     {
-        private static void veriler() //private gizli, erişilemez bilgi demektir.
+        private static void veriler() 
+         //private gizli, erişilemez bilgi demektir.
         {
             Console.WriteLine("Müdür: Esra YILDIZ");
             Console.WriteLine("Öğretmen: Tansu GEM");
@@ -18,7 +19,8 @@ namespace Metotlar
         }
         static void Main(string[] args)
         {
-            veriler(); //veriler();ifadesini kaç kez yazarsam yukarıdaki veriler o kadar gelir.
+            veriler(); 
+            //veriler();ifadesini kaç kez yazarsam yukarıdaki veriler o kadar gelir.
             Console.Read();
         }
     }
