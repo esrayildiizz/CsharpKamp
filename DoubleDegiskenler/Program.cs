@@ -10,12 +10,12 @@ namespace DoubleDegiskenler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" Öğrenci Not Hesaplama ");
+            Console.WriteLine(" Öğrenci Not Hesaplama \n");
 
             double not1, not2, not3, proje, ort;
             string ad, soyad, numara;
 
-            Console.WriteLine("****Öğrenci Kimlik Bilgileri****");
+            Console.WriteLine("****Öğrenci Kimlik Bilgileri****\n");
 
             Console.Write("Adınız: ");
             ad = Console.ReadLine();
@@ -24,7 +24,7 @@ namespace DoubleDegiskenler
             Console.Write("Numaranız:");
             numara = Console.ReadLine();
 
-            Console.WriteLine("****Öğrenci Sınav Bilgileri****");
+            Console.WriteLine("****Öğrenci Sınav Bilgileri****\n");
 
             Console.Write("Brinci Sınav: ");
             not1 = Convert.ToDouble(Console.ReadLine());
@@ -35,7 +35,7 @@ namespace DoubleDegiskenler
             Console.Write("Proje Notunuz. ");
             proje = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("****Ortama****");
+            Console.WriteLine("****Ortama****\n");
             ort = (not1 + not2 + not3 + proje) / 4;
             Console.WriteLine("Ad Soyad: " + ad + soyad);
             
