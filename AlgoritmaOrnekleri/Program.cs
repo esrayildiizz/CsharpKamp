@@ -103,14 +103,19 @@ namespace AlgoritmaOrnekleri
             //Girilen pozitif sayının kaç basamaklı olduğunu söyleyen uygulama.
 
 
-            
 
+            Console.WriteLine("Lütfen basamak sayısını öğrenmek istediğiniz sayıyı girin. ");
+            int sayi=Convert.ToInt32(Console.ReadLine());
 
-
-
-
-
-
+            int sonuc=0;
+            for(int i = sayi; sayi>=10; i++)
+            {
+                sayi /= 10;
+                sonuc++;
+            }
+            sonuc++;
+            Console.WriteLine("Girilen sayının basamak sayısı: " +sonuc);
+            Console.ReadLine();
 
 
 
