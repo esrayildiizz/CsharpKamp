@@ -10,7 +10,8 @@ namespace SinifYapisi
     {
         static void Main(string[] args)
         {
-            Araba arbsnf = new Araba();  //Araba adlı sınıfı arbsnf adlı nesne ile çağırdık.
+            Araba arbsnf = new Araba();  
+            //Araba adlı sınıfı arbsnf adlı nesne ile çağırdık.
             arbsnf.renk = "siyah";
             arbsnf.fiyat = 150000;
             arbsnf.model = "2022";
