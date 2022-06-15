@@ -166,6 +166,7 @@ namespace DegıskenCesitleri
 
             //Proje7  //short degiskeni
 
+
             //short s1, s2, s3;
             //s1 = 50;
             //s2 = 35;
@@ -195,6 +196,8 @@ namespace DegıskenCesitleri
 
             //Proje9  // bool degiskeninin iki sonucu vardır.
             //True veya False dur. // {0} yazan yere true veya false gelecektir.
+
+
 
             //int sayi;
             //Console.WriteLine("Sayıyı Girin: ");
