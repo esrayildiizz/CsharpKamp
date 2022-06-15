@@ -10,9 +10,11 @@ namespace AlanBulma
     {
         static void Main(string[] args)
         {
+
             int kenar, karealan, karecevre;
 
-            Console.WriteLine("****Karenin Alanını Ve Çevresini Bulma****");
+
+            Console.WriteLine("*****Karenin Alanını Ve Çevresini Bulma*****");
             Console.WriteLine();
 
             Console.WriteLine("Karenin Bir Kenarını Giriniz: ");
@@ -24,6 +26,7 @@ namespace AlanBulma
 
             Console.WriteLine("Kare Alan: " + karealan);
             Console.WriteLine("Kare Çevre: " + karecevre);
+
 
             Console.ReadLine(  );
             
