@@ -34,6 +34,10 @@ namespace AlgoritmaOrnekleri
 
 
 
+
+
+
+
             // Proje2 
             // 1'den 10'a kadar olan sayıların küplerinin toplamını bulan uygulama.
 
@@ -58,6 +62,9 @@ namespace AlgoritmaOrnekleri
 
 
 
+
+
+
             //Proje3
             // Doğum tarihi girilen kişinin yaşını hesaplayan uygulama.
 
@@ -69,6 +76,11 @@ namespace AlgoritmaOrnekleri
             //Console.WriteLine( "Yaşınız: " + sonuc.Days/365);
 
             //Console.ReadLine();
+
+
+
+
+
 
 
 
@@ -91,6 +103,9 @@ namespace AlgoritmaOrnekleri
             //Console.WriteLine( "Girilen sayının faktöriyeli : " + sonuc);
 
             //Console.ReadLine();
+
+
+
 
 
 
